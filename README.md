@@ -5,7 +5,7 @@ Hi! I'm Adam, a computer science student at Rose-Hulman Institute of Technology.
 - Machine Learning / Deep Learning
 - Proactive Human-Computer Interaction
 - Health Informatics
-- Automotive Engineering
+- Autonomous Vehicles
 
 ### Current Efforts
 I'm currently working on developing a strong foundation in deep learning based on latest research. One project I'm working on is a deep neural network for music generation. 
